@@ -1,0 +1,9 @@
+git  status = helps display the state of directory and staging area to know the chnages that has been made 
+
+git add <filename> = adds the file you are working on to git and make it trackable
+
+git add .          = adds All the files and changes that has been made to the local machine
+
+git commit -m "name and descri0ption"   = saves the modified changes or file to git
+
+git push      = this pushes the new content, edit, modification or new file to our repository on Github
