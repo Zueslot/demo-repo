@@ -7,3 +7,13 @@ git add .          = adds All the files and changes that has been made to the lo
 git commit -m "name and descri0ption"   = saves the modified changes or file to git
 
 git push      = this pushes the new content, edit, modification or new file to our repository on Github
+
+git branch    = this shows the branches under a master branch
+
+git checkout  = switches between branch
+
+git checkout -b <branchName/description>    = creates a branch(copies the code for you to edit)
+
+git diff <branchName>   = shows the changes that was made below the original content (like a comparison)
+
+git merge <branchName   = merges the branch with the main(master) branch
