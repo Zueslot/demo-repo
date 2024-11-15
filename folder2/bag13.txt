@@ -1,0 +1,6 @@
+#Another For-Loop
+
+for ((initiation;condition;increase/decrease))
+do
+statement/command
+done

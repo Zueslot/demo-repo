@@ -1,0 +1,7 @@
+#Showing how the While-Loop Synthax looks AGAIN!!!!!
+
+initiation
+while [ condition ]
+do 
+statement/commands
+done

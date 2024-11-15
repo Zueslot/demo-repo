@@ -1,0 +1,8 @@
+#"if statement synthax" 
+
+if [ condition ]
+then
+commands/statement
+else
+commants and statement
+fi

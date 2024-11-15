@@ -1,0 +1,5 @@
+<<comment
+This is a multiple comment
+used whrn you have more than
+one lone line of comment
+comment 

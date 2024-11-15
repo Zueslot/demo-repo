@@ -1,0 +1,10 @@
+#This is the synthax for switch case
+case $1 in
+option1)
+statement or command;;
+nextoption)
+statement//command;;
+*)
+statement/command
+echo "the only options given above are option1 and nextoption"
+esac

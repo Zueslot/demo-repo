@@ -1,0 +1,7 @@
+#This is how the function synthax looks
+
+blue()
+{
+commands/statement
+}
+blue

@@ -1,0 +1,7 @@
+#Writing another while loop synthax
+
+initiation
+while [ condition ]
+do
+statement/commads
+done

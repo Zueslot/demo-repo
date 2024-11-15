@@ -1,0 +1,14 @@
+#this is the synthax for switch case
+
+case $1 in
+option1)
+statement/commands;;
+option2)
+statements/commands
+;;
+option3)
+statement/commands;;
+*)
+statement/options
+echo "whatever you want as the counter to the options above"
+esac

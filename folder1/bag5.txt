@@ -1,0 +1,8 @@
+a=apple
+read -p "what is the value of a: " apple
+if [ $a == $apple ]
+then
+echo "Your answer is correct"
+else
+echo "You enetred the wrong input"
+fi

@@ -1,0 +1,7 @@
+#Another practice example of "if statement"
+if [ condition ]
+then 
+statements/commands
+else
+commands/statements
+fi

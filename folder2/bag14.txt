@@ -1,0 +1,12 @@
+#Yet another synthax for switch case
+
+ case $1 in
+optionA)
+statement or command;;
+optionB)
+statement and command;;
+optionC)
+statement/commands''
+*)
+statement/commands
+esac

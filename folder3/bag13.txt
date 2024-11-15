@@ -1,0 +1,7 @@
+#This is the synthax for Function
+
+whatever()
+{
+statment/command
+}
+whatever

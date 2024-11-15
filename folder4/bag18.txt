@@ -1,0 +1,5 @@
+# This is a function synthax
+	
+calculate()
+echo "this is a calculator statement and not an app"
+calculate

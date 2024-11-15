@@ -1,0 +1,7 @@
+#This is the synthax for while loop
+
+initiation
+while [ condition ]
+do
+statement/commands
+done

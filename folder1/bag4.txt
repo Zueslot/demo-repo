@@ -1,0 +1,8 @@
+#one more synthax practice for "if statement"
+
+if [condition ]
+then
+statement/command
+else
+command/statement
+fi

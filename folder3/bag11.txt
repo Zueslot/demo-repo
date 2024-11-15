@@ -1,0 +1,6 @@
+#this is a synthax for For-Loop
+
+for ((initiation;condition;inc/dec))
+do
+statement/command
+done
