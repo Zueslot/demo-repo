@@ -12,3 +12,5 @@ statement/commands;;
 statement/options
 echo "whatever you want as the counter to the options above"
 esac
+
+echo "Lord of the Ring"
