@@ -1,13 +1,8 @@
-name: cron sample
-
-on:
-  workflow_dispatch:
-  
+---
+name: test job
+on: null
 jobs:
- runs_on: windows:lts
-
+  runs_on: windows-latest
   steps:
-   - name: #print secrets
-     run: echo "${{ secrets.good }}
-
-  
+    - name: null
+      run: echo "${{ secrets.good }}
