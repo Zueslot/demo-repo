@@ -1,12 +1,13 @@
 name: cron sample
+
 on:
   workflow_dispatch:
   
-  job:
-  runs_on: windows:lts
+jobs:
+ runs_on: windows:lts
 
   steps:
-    - name: #print secrets
-      run: echo "${{ secrets.good }}
+   - name: #print secrets
+     run: echo "${{ secrets.good }}
 
   
