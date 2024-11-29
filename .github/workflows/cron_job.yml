@@ -1,8 +1,12 @@
 name: cron sample
-on
-  schedule
-   - cron: "*/2 * * * *"
-
+on:
+  workflow_dispatch:
+  
+  job:
   runs_on: windows:lts
+
+  steps:
+    - name: #print secrets
+      run: echo "${{ secrets.good }}
 
   
