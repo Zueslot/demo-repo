@@ -2,7 +2,7 @@
 name: test job
 on: null
 jobs:
-runs_on: ubuntu-latest
-  steps:
-    - name: null
-      run: echo "${{ secrets.good }}
+ runs_on: ubuntu-latest
+ steps:
+  - name: null
+    run: echo "${{ secrets.good }}
